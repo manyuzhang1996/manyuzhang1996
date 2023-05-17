@@ -16,7 +16,7 @@ Additionally, I possess excellent interpersonal and communication skills, allowi
 * ✉️  You can contact me at [zhangmanyuzmy@gmail.com](mailto:zhangmanyuzmy@gmail.com)
 * 🧠  I'm learning Deep Learning and Software Development
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Superwomen, Tell Everyone
+* ⚡  I Am A Superwomen, Tell Everyone
 
 ### Skills
 
