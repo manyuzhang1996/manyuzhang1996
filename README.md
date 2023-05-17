@@ -14,7 +14,7 @@ Additionally, I possess excellent interpersonal and communication skills, allowi
 
 * 🌍  I'm based in San Francisco Bay Area
 * 🧠  I'm learning Deep Learning and Software Development
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on NLP, AI and other interesting projects
 * ⚡   I Am A Superwomen, Tell Everyone
 * ✉️  You can contact me at [zhangmanyuzmy@gmail.com](mailto:zhangmanyuzmy@gmail.com)
 
