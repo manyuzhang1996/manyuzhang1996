@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manyu Zhang
 ===================================================================================================================================
 
-Data Scientist, Business Intelligence Engineer, Product Manager
+Data Scientist, Machine Learning Engineer, Product Manager
 ---------------------------------------------------------------
 
 I am a Data Scientist who loves data and has an ambition to learn and explore more! ❤️
 
 I've been working in the e-commerce and tech industry for 3 years (L'Oreal and Amazon!). I have a proven track record of leveraging data to generate actionable insights for product launch, business optimization and strategy making. 
 
-My technical expertise includes proficiency in Python, SQL, PySpark, Tableau as well as experience in data modeling, data warehousing, machine learning and deep learning. 
+My technical expertise includes proficiency in Python, Java, SQL, PySpark, Tableau as well as experience in data pipeline deployment, data modeling, data warehousing, machine learning and deep learning. 
 
 Additionally, I possess excellent interpersonal and communication skills, allowing me to successfully lead projects, effectively work in groups and communicate with cross-functional stakeholders.
 
