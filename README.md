@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Engineer, Machine Learning Engineer, Data Scientist
 ---------------------------------------------------------------
 
-I am an Artificial Intelligence Engineer who loves data and has an ambition to learn and explore more! ❤️
+I am an AI Engineer who loves data and has an ambition to learn and explore more! ❤️
 
 I've been working in the e-commerce and tech industry for 3 years (L'Oreal and Amazon!). I have a proven track record of leveraging data to generate actionable insights for product launch, business optimization and strategy making. 
 Currently, I am working in a conversational AI start up to boost the development of conversational commerce.
