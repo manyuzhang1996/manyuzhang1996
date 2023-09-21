@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manyu Zhang
 ===================================================================================================================================
 
-AI Engineer, Machine Learning Engineer, Data Scientist
+Data Scientist, AI Engineer, Machine Learning Engineer
 ---------------------------------------------------------------
 
 I am an AI Engineer who loves data and has an ambition to learn and explore more! ❤️
@@ -12,6 +12,8 @@ Currently, I am working in a conversational AI start up to boost the development
 My technical expertise includes proficiency in Python, Java, SQL, PySpark, Tableau as well as experience in data pipeline deployment, data modeling, data warehousing, machine learning and deep learning. 
 
 Additionally, I possess excellent interpersonal and communication skills, allowing me to successfully lead projects, effectively work in groups and communicate with cross-functional stakeholders.
+
+Currently seeking full-time opportunities as Data Scientist, Data Analyst, AI Engineer, ML Engineer and related fields starting in May 2024! Thanks for referring and sharing!
 
 * 🌍  I'm based in San Francisco Bay Area
 * 🧠  I'm learning Deep Learning and Software Development
