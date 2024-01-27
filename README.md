@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manyu Zhang
 ===================================================================================================================================
 
-Data Scientist, AI Engineer, Machine Learning Engineer
+Data Analyst, Data Scientist, AI Engineer
 ---------------------------------------------------------------
 
 I am an AI Engineer who loves data and has an ambition to learn and explore more! ❤️
