@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manyu Zhang
 ===================================================================================================================================
 
-Data Analyst, Data Scientist, AI Engineer
+Data Analyst, Data Scientist
 ---------------------------------------------------------------
 
 I am a data lover who has an ambition to learn and explore more! ❤️
