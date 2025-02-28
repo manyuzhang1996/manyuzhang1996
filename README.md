@@ -6,17 +6,16 @@ Data Analyst, Data Scientist
 
 I am a data lover who has an ambition to learn and explore more! ❤️
 
-I've been working in the e-commerce and tech industry for 3 years (L'Oreal and Amazon!). I have a proven track record of leveraging data to generate actionable insights for product launch, business optimization and strategy making. 
-Currently, I am working in a conversational AI start up to boost the development of conversational commerce.
+I've been working in the retail and tech industry for 3 years (Simbe, L'Oreal and Amazon!). I have a proven track record of leveraging data to generate actionable insights for product launch, business optimization and strategy making. 
+Currently, I am working as a Data Analyst at Simbe Robotics, Inc., empowering retailers to better support store associates and elevate shoppers’ experience.
 
-My technical expertise includes proficiency in Python, Java, SQL, PySpark, Tableau as well as experience in data pipeline deployment, data modeling, data warehousing, machine learning and deep learning. 
+My technical expertise includes proficiency in Python, SQL, Tableau, Looker, BigQuery as well as experience in data pipeline deployment, data modeling, data warehousing, machine learning and deep learning. 
 
 Additionally, I possess excellent interpersonal and communication skills, allowing me to successfully lead projects, effectively work in groups and communicate with cross-functional stakeholders.
 
-Currently seeking full-time opportunities as Data Scientist, Data Analyst, AI Engineer, ML Engineer and related fields starting in May 2024! Thanks for referring and sharing!
 
 * 🌍  I'm based in San Francisco Bay Area
-* 🧠  I'm learning Deep Learning and Software Development
+* 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on NLP, AI and other interesting projects
 * ⚡   I Am A Superwomen, Tell Everyone
 * ✉️  You can contact me at [zhangmanyuzmy@gmail.com](mailto:zhangmanyuzmy@gmail.com)
